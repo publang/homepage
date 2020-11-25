@@ -9,13 +9,12 @@ collections:
     title: Uploads
     output: true
 email: publang.team@gmail.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: ''
-url: ''
+description: Webtoon Localization Team·웹툰 현지화 팀 | Bridging people with words and pixels
+  | 문자와 픽셀로 사람을 연결합니다
+baseurl: 
+url: 
 twitter_username: publang
-github_username: trie94
+github_username: publang
 theme: minima
 plugins:
 - jekyll-feed
