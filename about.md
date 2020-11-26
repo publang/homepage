@@ -1,5 +1,5 @@
 ---
-title: About
+title: Let's read the story as the creator intended
 titles:
   en: Let's read the story as the creator intended
   en-GB: Let's read the story as the creator intended
