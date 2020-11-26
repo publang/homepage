@@ -1,5 +1,5 @@
 ---
-layout: article
+title: About
 titles:
   en: Let's read the story as the creator intended
   en-GB: Let's read the story as the creator intended
@@ -29,10 +29,13 @@ article_header:
   type: overlay
   theme: default
   background_color: "#FFFFFF"
+layout: article
 ---
 
 ## Current Work
-Dear Door
+
+This is our current work!
 
 ## Contact Us
+
 Saranghaeyo
