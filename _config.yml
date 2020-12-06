@@ -1,13 +1,6 @@
 ---
 title: Publang
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
@@ -36,7 +29,7 @@ author:
   url: 
   avatar: 
   bio: I am an amazing person.
-  email: 
+  email: publang.team@gmail.com
   facebook: 
   twitter: publang
   weibo: 
@@ -46,7 +39,7 @@ author:
   zhihu: 
   douban: 
   linkedin: 
-  github: publang
+  github: 
   npm: 
 repository: publang/puglang.github.io
 repository_tree: main

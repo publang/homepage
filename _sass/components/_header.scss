@@ -15,7 +15,7 @@
 
 .header--dark {
   @extend .text--dark;
-  background: rgba(#000, .15);
+  background: rgba(#000, .0);
   .navigation__item--active {
     &::after {
       @include split-line(bottom, 4px, $text-color-theme-dark);
@@ -25,7 +25,7 @@
 
 .header--light {
   @extend .text--light;
-  background: rgba(#fff, .15);
+  background: rgba(#fff, .0);
   .navigation__item--active {
     &::after {
       @include split-line(bottom, 4px, $text-color-theme-light);
@@ -63,16 +63,16 @@
 .header__brand {
   @include flexbox();
   @include align-items(center);
-  & > svg {
-    width: map-get($base, font-size-h4) * 1.6;
-    height: map-get($base, font-size-h4) * 1.6;
-    margin-right: map-get($spacers, 3);
-    vertical-align: middle;
-    @include media-breakpoint-down(md) {
-      width: map-get($base, font-size-h4) * 1.2;
-      height: map-get($base, font-size-h4) * 1.2;
-    }
-  }
+  // & > svg {
+  //   width: map-get($base, font-size-h4) * 1.6;
+  //   height: map-get($base, font-size-h4) * 1.6;
+  //   margin-right: map-get($spacers, 3);
+  //   vertical-align: middle;
+  //   @include media-breakpoint-down(md) {
+  //     width: map-get($base, font-size-h4) * 1.2;
+  //     height: map-get($base, font-size-h4) * 1.2;
+  //   }
+  // }
   & > a {
     display: inline-block;
     font-size: map-get($base, font-size-h4);
@@ -120,4 +120,10 @@
   &::after {
     @include split-line(bottom, 4px, $main-color-1);
   }
+}
+
+.logo {
+  min-width: 120px;
+  width: 15%;
+  margin: auto;
 }

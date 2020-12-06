@@ -4,8 +4,6 @@ default:
   lang: en
   paths:
     root: /
-    home: /
-    rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
   mermaid: false
@@ -18,7 +16,7 @@ default:
     mode: normal
     type: webpage
     article_header:
-      align: left
+      align: center
       theme: light
     articles:
       show_cover: true
@@ -36,7 +34,7 @@ default:
     comment: true
     license: false
     pageview: false
-    search: default
+    search: false
 
 sources:
   bootcdn:
