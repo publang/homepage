@@ -1,7 +1,7 @@
 ---
+title: Let's read the story as the creator intended
 layout: article
 mode: immersive
-title: Let's read the story as the creator intended
 titles:
   en: Let's read the story as the creator intended
   en-GB: Let's read the story as the creator intended
@@ -30,7 +30,7 @@ article_header:
   type: overlay
   theme: dark
   background_image:
-    src: /assets/images/publang-background.png
+    src: "/assets/images/publang-background.png"
 ---
 
 ## Current Work
