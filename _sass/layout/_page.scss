@@ -160,6 +160,7 @@ html,
     width: 100%;
   }
   .hero__content {
-    padding-top: map-get($layout, header-height);
+    margin: auto;
+    // padding-top: map-get($layout, header-height);
   }
 }
