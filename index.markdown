@@ -35,7 +35,7 @@ article_header:
 
 ## Current Work
 
-Dear Door
+[Dear Door](https://www.tappytoon.com/en/comics/deardoor){:target="_blank"} - by [PLUTO](https://twitter.com/PlutoDx){:target="_blank"}
 
 ## Team
 
