@@ -35,11 +35,21 @@ article_header:
 
 ## Current Work
 
-[Dear Door](https://www.tappytoon.com/en/comics/deardoor){:target="_blank"} - by [PLUTO](https://twitter.com/PlutoDx){:target="_blank"}
+<div class="work">
+  <a class="wrapper" href="https://www.tappytoon.com/en/comics/deardoor" target="_blank">
+    <img class="thumbnail" src="./assets/images/dear-door-thumbnail.png" alt="Dear Door" />
+  </a>
+  <div class="description">
+    <a class="title" href="https://www.tappytoon.com/en/comics/deardoor" target="_blank">Dear Door</a>
+    <p class="author">by <a href="https://twitter.com/PlutoDx" target="_blank">PLUTO</a></p>
+    <p>English localization | Lettering</p>
+  </div>
+</div>
 
-## Team
+<h2>Team</h2>
 
 We all love reading. So we came together to bridge creators and readers.
+
 
 ## Contact Us
 - [e-mail](mailto:publang.team@gmail.com){:target="_blank"}
