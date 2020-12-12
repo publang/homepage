@@ -29,4 +29,28 @@
         color: gray;
     }
 }
+
+.team {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: initial;
+    text-align: center;
+
+    .member {
+        width: 32%;
+        font-size: map-get($base, font-size-h3);
+        margin: 0 auto map-get($spacers, 1) auto;
+    }
+
+    .profile {
+        border-radius: 50%;
+        width: 32%;
+    }
+
+    .role {
+        font-size: map-get($base, font-size-sm);
+        margin: map-get($spacers, 1) 0 map-get($spacers, 3) 0;
+    }
+}
 /* end custom scss snippet */

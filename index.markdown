@@ -4,25 +4,8 @@ layout: article
 mode: immersive
 titles:
   en: Let's read the story as the creator intended
-  en-GB: Let's read the story as the creator intended
-  en-US: Let's read the story as the creator intended
-  en-CA: Let's read the story as the creator intended
-  en-AU: Let's read the story as the creator intended
-  zh-Hans: 关于
-  zh: 关于
-  zh-CN: 关于
-  zh-SG: 关于
-  zh-Hant: 關於
-  zh-TW: 關於
-  zh-HK: 關於
   ko: 누가 애지게 번역 좀 해주세요, 퍼블랑 짱!
   ko-KR: 누가 애지게 번역 좀 해주세요, 퍼블랑 짱!
-  fr: À propos
-  fr-BE: À propos
-  fr-CA: À propos
-  fr-CH: À propos
-  fr-FR: À propos
-  fr-LU: À propos
 key: page-main
 header:
   theme: dark
@@ -46,10 +29,43 @@ article_header:
   </div>
 </div>
 
-<h2>Team</h2>
-
+## Team
 We all love reading. So we came together to bridge creators and readers.
 
+<div class="team">
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_coryun.jpeg" />
+    <div>Coryun</div>
+    <p class="role">Team lead | Translator | Letterer</p>
+  </div>
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_human.jpeg" />
+    <div>Human C</div>
+    <p class="role">Project Manager | Translator | Letterer</p>
+  </div>
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_jojo.jpeg" />
+    <div>Jojo</div>
+    <p class="role">Developer</p>
+  </div>
+</div>
+<div class="team">
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_princess.jpeg" />
+    <div>Princess J</div>
+    <p class="role">Cleaner | Letterer</p>
+  </div>
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_artichoke.jpeg" />
+    <div>Artichoke</div>
+    <p class="role">Reviewer | Language expert</p>
+  </div>
+  <div class="member">
+    <img class="profile" src="./assets/images/team/profile_jet.jpeg" />
+    <div>JET</div>
+    <p class="role">Translator</p>
+  </div>
+</div>
 
 ## Contact Us
 - [e-mail](mailto:publang.team@gmail.com){:target="_blank"}

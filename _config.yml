@@ -34,7 +34,7 @@ author:
   type: organization
   name: Publang
   url: 
-  avatar: 
+  avatar: ./asset/images/publang-background.png
   bio: I am an amazing person.
   email: publang.team@gmail.com
   facebook: 
@@ -98,7 +98,7 @@ search:
 analytics:
   provider: false
   google:
-    tracking_id: 
+    tracking_id: G-QCREZVCKD4
     anonymize_ip: false
 markdown: kramdown
 highlighter: rouge
