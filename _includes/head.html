@@ -5,12 +5,11 @@
 {%- include snippets/get-article-title.html article=page -%}
 <!-- <title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title> -->
 <title>Publang</title>
-
 <!-- <meta name="description"
     content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
 <link rel="canonical" href="{%- include snippets/page-url.html -%}"> -->
 <meta name="description"
-    content="Webtoon Localization Team·웹툰 현지화 팀 | Bridging people with words and pixels | 문자와 픽셀로 사람을 연결합니다">
+    content="Webtoon Localization Team·웹툰 현지화 팀 | Bridging people with pixels and words | 문자와 픽셀로 사람을 연결합니다">
 <link rel="image_src" href="/assets/images/publang-background.png" />
 
 {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
