@@ -1,7 +1,5 @@
 ---
 title: Let's read the story as the creator intended
-description: "Webtoon Localization Team·웹툰 현지화 팀 | Bridging people with words and pixels | 문자와 픽셀로 사람을 연결합니다"
-image: "./assets/image/publang-background.png"
 layout: article
 mode: immersive
 titles:
@@ -17,7 +15,6 @@ article_header:
   background_image:
     src: "/assets/images/publang-background.png"
 ---
-
 ## Current Work
 
 <div class="work">
