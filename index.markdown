@@ -15,6 +15,7 @@ article_header:
   background_image:
     src: "/assets/images/publang-background.png"
 ---
+
 ## Current Work
 
 <div class="work">
