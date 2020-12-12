@@ -61,7 +61,7 @@ We all love reading. So we came together to bridge creators and readers.
   </div>
   <div class="member">
     <img class="profile" src="./assets/images/team/profile_jet.jpeg" />
-    <div>JET</div>
+    <div>Lil Train</div>
     <p class="role">Translator</p>
   </div>
 </div>
