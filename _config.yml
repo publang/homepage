@@ -34,7 +34,7 @@ author:
   type: organization
   name: Publang
   url: 
-  avatar: ./asset/images/publang-background.png
+  avatar: "./asset/images/publang-background.png"
   bio: I am an amazing person.
   email: publang.team@gmail.com
   facebook: 
