@@ -38,19 +38,25 @@
     text-align: center;
 
     .member {
-        width: 32%;
+        width: 35%;
         font-size: map-get($base, font-size-h3);
-        margin: 0 auto map-get($spacers, 1) auto;
+        margin: 0 auto map-get($spacers, 3) auto;
+        @media only screen and (max-width: 768px) {
+            font-size: map-get($base, font-size-h5);
+        }
+
+        .role {
+            font-size: map-get($base, font-size-sm);
+            margin: map-get($spacers, 1) 0 map-get($spacers, 3) 0;
+            @media only screen and (max-width: 768px) {
+                font-size: map-get($base, font-size-xs);
+            }
+        }
     }
 
     .profile {
         border-radius: 50%;
         width: 32%;
-    }
-
-    .role {
-        font-size: map-get($base, font-size-sm);
-        margin: map-get($spacers, 1) 0 map-get($spacers, 3) 0;
     }
 }
 /* end custom scss snippet */

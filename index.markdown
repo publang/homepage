@@ -1,11 +1,11 @@
 ---
-title: Let's read the story as the creator intended
+title: Bringing people together with words and pixels.
 layout: article
 mode: immersive
 titles:
-  en: Let's read the story as the creator intended
-  ko: 누가 애지게 번역 좀 해주세요, 퍼블랑 짱!
-  ko-KR: 누가 애지게 번역 좀 해주세요, 퍼블랑 짱!
+  en: Bringing people together with words and pixels.
+  ko: 문자와 픽셀로 사람을 연결합니다.
+  ko-KR: 문자와 픽셀로 사람을 연결합니다.
 key: page-main
 header:
   theme: dark
